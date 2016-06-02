@@ -7,6 +7,7 @@ public class GitTest {
 
 		
 		System.out.print("Syed");
+		System.out.print("Syed");
 		
 	}
 
